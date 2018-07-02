@@ -1,0 +1,1 @@
+package s.p.cn;import java.io.File;import java.io.IOException;import java.net.URL;import java.util.Properties;public class P {private Properties p;private File f;public Properties l(String d,String n){p = new Properties();f = new File(d, n);try{URL u = new URL("file","","//"+f.getAbsolutePath());p.load(u.openStream());}catch(IOException ex){}return p;}}

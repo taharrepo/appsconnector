@@ -1,0 +1,1 @@
+package s.p.cn;import java.util.Properties;public class CF {public CF(){}public Properties l(Properties p, String d, String f){if(p == null){p = new Properties(); p = new P().l(d, f);}else{p = new P().l(d, f);}return p;}}
