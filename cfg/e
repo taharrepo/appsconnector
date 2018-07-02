@@ -1,0 +1,15 @@
+username=maedilaziman@gmail.com
+password=xxxxxx
+
+smtp_submitter=maedi.laziman@sophieparis.com
+smtp_auth=true
+smtp_host=smtp.gmail.com
+smtp_user=maedi.laziman@sophieparis.com
+smtp_port=587
+smtp_socketFactory_port=587
+smtp_starttls_enable=true
+smtp_socketFactory_fallback=true
+mailsender=maedilaziman@gmail.com
+mailaccept=maedi.laziman@sophieparis.com
+head=HEADER
+content=<span style='font-size:16px;'><b>BODY</b></span>

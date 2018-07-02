@@ -1,0 +1,26 @@
+so=7878
+sn=192.168.56.1
+t=10000
+u=http://vm_mlmstaging:8888/
+
+du=jdbc:jtds:sqlserver://10.0.0.136:1433/DEVMLMID
+dd=net.sourceforge.jtds.jdbc.Driver
+ds=ra
+dp=sophieparis
+qr=SELECT MemberId FROM Members ORDER BY MemberId OFFSET 20 ROWS FETCH NEXT 10 ROWS ONLY
+
+username=maedi.laziman@sophieparis.com
+password=123maedi
+
+smtp_submitter=maedi.laziman@sophieparis.com
+smtp_auth=true
+smtp_host=smtp.gmail.com
+smtp_user=maedi.laziman@sophieparis.com
+smtp_port=587
+smtp_socketFactory_port=587
+smtp_starttls_enable=true
+smtp_socketFactory_fallback=true
+mailsender=noreply@sophieparis.com
+mailaccept=maedilaziman@gmail.com
+head=Account Activation
+content=
