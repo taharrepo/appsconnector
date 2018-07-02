@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-config-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-core-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail-api-1.4.7.jar"/>
+	<classpathentry kind="lib" path="lib/com.sun.mail_1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/jtds-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/javaee.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
